@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="select_unit">Select</string>
+    <string name="convert_unit">Convert</string>
+    <string name="create_unit">Create</string>
+    <string name="delete_unit">Delete</string>
+</resources>
